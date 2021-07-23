@@ -7,3 +7,7 @@
 **Projeto- 2 "Relógio Analógico e Digital"
 
 ![image](https://github.com/sindiraimundo/desafio-js-7dias-7projetos/blob/main/projeto-2/projeto-2-relogio.png)
+
+**Projeto- 3 "sistema de busca de clima"
+
+![image](https://github.com/sindiraimundo/desafio-js-7dias-7projetos/blob/main/projeto-3/projeto-3-clima.png)
