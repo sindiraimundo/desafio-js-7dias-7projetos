@@ -11,3 +11,7 @@
 **Projeto- 3 "sistema de busca de clima"
 
 ![image](https://github.com/sindiraimundo/desafio-js-7dias-7projetos/blob/main/projeto-3/projeto-3-clima.png)
+
+**Projeto- 4 "jogo da velha"
+
+![image](https://github.com/sindiraimundo/desafio-js-7dias-7projetos/blob/main/projeto-4/projeto-4-jogo-da-velha.png)
