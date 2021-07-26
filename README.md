@@ -14,4 +14,4 @@
 
 **Projeto- 4 "jogo da velha"
 
-![image](https://github.com/sindiraimundo/desafio-js-7dias-7projetos/blob/main/projeto-4/projeto-4-jogo-da-velha.png)
+![image](https://github.com/sindiraimundo/desafio-js-7dias-7projetos/blob/main/projeto-5/projeto-5-desenhando-no-canvas.png)
